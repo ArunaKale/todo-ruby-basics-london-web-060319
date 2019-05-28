@@ -23,7 +23,7 @@ return "expert"
 end
 
 def pizza_party()
-return "Cheese"
+return "cheese"
 end
 
 pizza_party("pepperoni")
