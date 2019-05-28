@@ -26,4 +26,4 @@ def pizza_party()
 return "cheese"
 end
 
-pizza_party("burger")
+pizza_party()
